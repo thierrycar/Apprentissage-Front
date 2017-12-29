@@ -36,7 +36,7 @@ $(function() {
     // Selectionner un Attribut
 
         // jQuerry
-        l($("[href='http://www.goole.fr']"));
+        l($("[href='http://www.google.fr']"));
 
 
 });
